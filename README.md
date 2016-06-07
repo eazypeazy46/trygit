@@ -1,4 +1,4 @@
 # trygit
 Trying out Git commands
 
-Adding new content
+Adding new content - second commit
